@@ -81,4 +81,5 @@ Theo Serralta
 ---
 ## **Reference**
 Almagro Armenteros, J. J., Sønderby, C. K., Sønderby, S. K., Nielsen, H., & Winther, O. (2017). DeepLoc: prediction of protein subcellular localization using deep learning. Bioinformatics (Oxford, England), 33(21), 3387–3395. https://doi.org/10.1093/bioinformatics/btx431
+
 ---
